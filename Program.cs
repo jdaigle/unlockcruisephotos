@@ -10,7 +10,7 @@ namespace UnlockCruisePhotos
 {
     public class Program
     {
-        public const string ImageDir = @"C:\Users\jdaigle\AppData\Roaming\com.image.getthepicture\Local Store\albums\e2cfe97b926709052765544df78c06fb437dd61df9fd36eeb729e53625d8bb3a\images";
+        public const string ImageDir = @"path/to/album/images";
         public const string DecryptKey = "cPGyDWIpiEc=";
         public const string OutputDir = @"C:\temp\cruise-photos\";
 
